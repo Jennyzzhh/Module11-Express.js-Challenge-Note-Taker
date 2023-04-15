@@ -17,4 +17,5 @@
 ## deployed application
 
 
-[Github link] (https://github.com/Jennyzzhh/Module-10-Object-Oriented-Programming-Challenge-Team-Profile-Generator.git)
+[Github link] (https://github.com/Jennyzzhh/Module12_SQL-Challenge-Employee-Tracker.git)
+[Application URL] (https://jennyzzhh.github.io/Module11-Express.js-Challenge-Note-Taker/)
